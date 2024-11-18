@@ -136,7 +136,7 @@
             <mxPoint x="360" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kl5dcTFvaQ_aIkHCbyx2-9" value="! Coût" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="Kl5dcTFvaQ_aIkHCbyx2-9" value="/!\ Coût" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="260" y="300" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kl5dcTFvaQ_aIkHCbyx2-10" value="(utilisé par Marc-Antoine sur M2L&lt;div&gt;-&amp;gt; verif droits nécessaires)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
