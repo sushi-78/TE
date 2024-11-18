@@ -101,8 +101,8 @@
             <mxPoint x="769" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W6dLWdIMpy2pHT6UL7xk-69" value="cybervadis à faire" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="379" y="315" width="120" height="30" as="geometry" />
+        <mxCell id="W6dLWdIMpy2pHT6UL7xk-69" value="cybervadis à faire&lt;div&gt;ssi option retenue&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="379" y="316" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W6dLWdIMpy2pHT6UL7xk-70" value="cybervadis a faire" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="619" y="315" width="120" height="30" as="geometry" />
